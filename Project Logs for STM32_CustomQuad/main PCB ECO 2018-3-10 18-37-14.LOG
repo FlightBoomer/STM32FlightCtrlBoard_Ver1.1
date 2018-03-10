@@ -1,0 +1,75 @@
+Added Component: Designator=Barometre(HDR1X7)
+Added Component: Designator=BlueTooch(HDR1X7)
+Added Component: Designator=MPU_Ext(HDR1X10)
+Added Component: Designator=PWM&RC_2(HDR2X5)
+Added Component: Designator=PWM&RC(HDR1X5)
+Added Component: Designator=R0(1210)
+Added Component: Designator=R1(1210)
+Added Component: Designator=USART(HDR2X2)
+Added Pin To Net: NetName=A6_PPM_IN Pin=PWM&RC-1
+Added Pin To Net: NetName=A6_PPM_IN Pin=STM32_R-32
+Added Net: Name=A6_PPM_IN
+Added Pin To Net: NetName=A9_TX Pin=BlueTooch-7
+Added Pin To Net: NetName=A9_TX Pin=R0-2
+Added Pin To Net: NetName=A9_TX Pin=USART-2
+Added Net: Name=A9_TX
+Added Pin To Net: NetName=A10_RX Pin=BlueTooch-6
+Added Pin To Net: NetName=A10_RX Pin=R1-2
+Added Pin To Net: NetName=A10_RX Pin=USART-4
+Added Net: Name=A10_RX
+Added Pin To Net: NetName=B6_MOTOR1 Pin=PWM&RC-2
+Added Pin To Net: NetName=B6_MOTOR1 Pin=STM32_L-55
+Added Net: Name=B6_MOTOR1
+Added Pin To Net: NetName=B7_MOTOR2 Pin=PWM&RC-3
+Added Pin To Net: NetName=B7_MOTOR2 Pin=STM32_L-56
+Added Net: Name=B7_MOTOR2
+Added Pin To Net: NetName=B8_MOTOR3 Pin=PWM&RC-4
+Added Pin To Net: NetName=B8_MOTOR3 Pin=STM32_L-57
+Added Net: Name=B8_MOTOR3
+Added Pin To Net: NetName=B9_MOTOR4 Pin=PWM&RC-5
+Added Pin To Net: NetName=B9_MOTOR4 Pin=STM32_L-58
+Added Net: Name=B9_MOTOR4
+Added Pin To Net: NetName=B12_SCL Pin=Barometre-3
+Added Pin To Net: NetName=B12_SCL Pin=MPU_Ext-3
+Added Pin To Net: NetName=B12_SCL Pin=STM32_L-1
+Added Net: Name=B12_SCL
+Added Pin To Net: NetName=B13_SDA Pin=Barometre-4
+Added Pin To Net: NetName=B13_SDA Pin=MPU_Ext-4
+Added Pin To Net: NetName=B13_SDA Pin=STM32_L-2
+Added Net: Name=B13_SDA
+Added Pin To Net: NetName=CH340_RX Pin=R0-1
+Added Pin To Net: NetName=CH340_RX Pin=USART-1
+Added Net: Name=CH340_RX
+Added Pin To Net: NetName=CH340_TX Pin=R1-1
+Added Pin To Net: NetName=CH340_TX Pin=USART-3
+Added Net: Name=CH340_TX
+Added Pin To Net: NetName=GND Pin=Barometre-2
+Added Pin To Net: NetName=GND Pin=BlueTooch-5
+Added Pin To Net: NetName=GND Pin=MPU_Ext-2
+Added Pin To Net: NetName=GND Pin=PWM&RC_2-2
+Added Pin To Net: NetName=GND Pin=PWM&RC_2-4
+Added Pin To Net: NetName=GND Pin=PWM&RC_2-6
+Added Pin To Net: NetName=GND Pin=PWM&RC_2-8
+Added Pin To Net: NetName=GND Pin=PWM&RC_2-10
+Added Pin To Net: NetName=GND Pin=STM32_R-1
+Added Pin To Net: NetName=GND Pin=STM32_R-3
+Added Net: Name=GND
+Added Pin To Net: NetName=VCC Pin=Barometre-1
+Added Pin To Net: NetName=VCC Pin=BlueTooch-4
+Added Pin To Net: NetName=VCC Pin=MPU_Ext-1
+Added Pin To Net: NetName=VCC Pin=PWM&RC_2-1
+Added Pin To Net: NetName=VCC Pin=PWM&RC_2-3
+Added Pin To Net: NetName=VCC Pin=PWM&RC_2-5
+Added Pin To Net: NetName=VCC Pin=PWM&RC_2-7
+Added Pin To Net: NetName=VCC Pin=PWM&RC_2-9
+Added Pin To Net: NetName=VCC Pin=STM32_R-2
+Added Net: Name=VCC
+Added Member To Class: ClassName=main Member=Component Barometre Header 7
+Added Member To Class: ClassName=main Member=Component BlueTooch Header 7
+Added Member To Class: ClassName=main Member=Component MPU_Ext Header 10
+Added Member To Class: ClassName=main Member=Component PWM&RC_2 Header 5X2
+Added Member To Class: ClassName=main Member=Component PWM&RC Header 5
+Added Member To Class: ClassName=main Member=Component R0 Res2
+Added Member To Class: ClassName=main Member=Component R1 Res2
+Added Member To Class: ClassName=main Member=Component USART Header 2X2
+Added Room: Name=main
