@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=VCC Pin=BlueTooch-4
+Removed Pin From Net: NetName=GND Pin=BlueTooch-5
+Removed Pin From Net: NetName=A10_RX Pin=BlueTooch-6
+Removed Pin From Net: NetName=A9_TX Pin=BlueTooch-7
+Added Pin To Net: NetName=VCC Pin=BlueTooch-3
+Added Pin To Net: NetName=GND Pin=BlueTooch-4
+Added Pin To Net: NetName=A10_RX Pin=BlueTooch-5
+Added Pin To Net: NetName=A9_TX Pin=BlueTooch-6
